@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "name": "tpc1",
+  "version": "1.0.0",
+  "description": "utilização do frmaworks express",
+  "main": "PrimeiroAppExpress.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node PrimeiroAppExpress.js",
+    "start-dev": "nodemon PrimeiroAppExpress.js"
+  },
+  "author": "RodrigoFortes",
+  "license": "ISC"
+}

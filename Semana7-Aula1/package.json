@@ -1,0 +1,19 @@
+{
+  "name": "engenharia-de-software",
+  "version": "1.0.0",
+  "description": "aula sobre node e expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node PrimeiroApp.js",
+    "start-dev": "nodemon PrimeiroApp.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "expressjs": "^1.0.1"
+  }
+}

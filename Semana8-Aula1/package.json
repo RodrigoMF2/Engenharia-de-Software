@@ -1,0 +1,20 @@
+{
+  "name": "semana8-aula1",
+  "version": "1.0.0",
+  "description": "aplicaçao de aula de hoje",
+  "main": "Node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Node.js",
+    "start-dev": "nodemon Node.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "expresse": "^1.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
